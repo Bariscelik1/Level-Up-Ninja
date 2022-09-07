@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: 4d6c69091ea0c604c9da62ee0da428cc
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 3380577741906493870
+    second: main part.001|bladeAction
+  - first:
+      74: -19711995341514247
+    second: main part.001|bladeAction.001
+  - first:
+      74: 1405043208027063835
+    second: main part.001|cAction
+  - first:
+      74: -4400951724426920160
+    second: main part.001|cAction.001
+  - first:
+      74: -4415204373652491622
+    second: main part.001|copyAction
+  - first:
+      74: 994173838466899843
+    second: main part.001|Cylinder.002Action
+  - first:
+      74: -6049631928873595170
+    second: main part.001|Cylinder.003Action
+  - first:
+      74: -7951239857186889575
+    second: main part.001|dAction
+  - first:
+      74: 1271741619305072076
+    second: main part.001|dAction.001
+  - first:
+      74: 1225563573719405913
+    second: main part.001|main part.002|main part.001|bladeAction
+  - first:
+      74: -5792064087065853073
+    second: main part.001|main part.002|main part.001|bladeAction.001
+  - first:
+      74: 537783267838777886
+    second: main part.001|main part.002|main part.001|cAction
+  - first:
+      74: 5622750061188358707
+    second: main part.001|main part.002|main part.001|cAction.001
+  - first:
+      74: 38869949989638388
+    second: main part.001|main part.002|main part.001|copyAction
+  - first:
+      74: -7497728567514818172
+    second: main part.001|main part.002|main part.001|Cylinder.002Action
+  - first:
+      74: 2610914240851215120
+    second: main part.001|main part.002|main part.001|Cylinder.003Action
+  - first:
+      74: 2021772528059325012
+    second: main part.001|main part.002|main part.001|dAction
+  - first:
+      74: 5614556118738544697
+    second: main part.001|main part.002|main part.001|dAction.001
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
